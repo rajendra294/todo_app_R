@@ -19,6 +19,6 @@ You can access the live version of the app at the following link:
 - **HTML**: For structuring the web page.
 - **CSS**: For styling the app's layout and design.
 - **JavaScript**: For the app's functionality (task management).
-# Screenshots_of_the_application
+# Screenshots Of The Application
 ![Image](/To%20do%20list.png)
 
