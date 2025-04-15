@@ -20,5 +20,5 @@ You can access the live version of the app at the following link:
 - **CSS**: For styling the app's layout and design.
 - **JavaScript**: For the app's functionality (task management).
 
-![Image](To do list.png)
+![Image](/To do list.png)
 
